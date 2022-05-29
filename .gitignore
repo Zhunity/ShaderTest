@@ -1,0 +1,17 @@
+/Library
+*.sln
+*.csproj
+/Temp
+/.vs
+/obj
+/Bundle
+/Dll
+/Publish
+/Assets/StreamingAssets
+/Patch
+/Assets/Temp
+/Assets/Temp.meta
+/.vscode
+/Logs
+/.vsconfig
+*.vs
